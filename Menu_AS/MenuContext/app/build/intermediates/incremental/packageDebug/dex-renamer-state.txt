@@ -1,0 +1,4 @@
+#Thu Apr 06 16:24:13 CST 2017
+base.0=C\:\\Users\\jie\\Desktop\\android02180021-master(1)\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\jie\\Desktop\\android02180021-master(1)\\07 Menu\\Menu_AS\\MenuContext\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
